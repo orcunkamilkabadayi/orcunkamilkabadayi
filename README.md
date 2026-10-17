@@ -11,7 +11,7 @@ Seramik markası için geliştirdiğim interaktif dijital katalog: sayfa çevirm
 
 [Canlı siteyi aç](https://www.betusartceramic.com/) · [Kaynak kodu](https://github.com/orcunkamilkabadayi/betus-art-ceramic)
 
-### [AZES / Espor Gaming House](https://github.com/orcunkamilkabadayi/espor-gaming-house)
+### [AZES / Espor Takım Evi](https://github.com/orcunkamilkabadayi/espor-gaming-house)
 İki katlı, 12 bölümlü espor takım evi konsepti. Gerçek 3D gezinti, kat planı, oda geçişleri, sunum ve gece görünümü.
 
 [Projeyi ve yerel HTML demosunu incele](https://github.com/orcunkamilkabadayi/espor-gaming-house)
